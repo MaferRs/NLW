@@ -4,7 +4,7 @@
 
 <h1><a href="https://maferrs.github.io/NLW/" > Link do Projeto</a></h1>
 
-<p>Este projeto foi realizado durante o projeto Next Level Week - NLW Esports da Rocketseat, onde foi proposto criar um layout com os jogos preferidos, streamers favoritos e redes sociais, tomei a liberdade de colcoar minhas música preferidas</p>
+<p>Este projeto foi realizado durante o Next Level Week - NLW Esports da Rocketseat, onde foi proposto criar um layout com os jogos preferidos, streamers favoritos e redes sociais, tomei a liberdade de colcoar minhas música preferidas</p>
 
 ## Tecnologias
 
