@@ -1,20 +1,31 @@
-# NLW eSports
+# NLW eSports - Trilha Explorer
 
-> Trilha Explorer
+## 💻 Sobre o Projeto
 
-<h1><a href="https://maferrs.github.io/NLW/" > Link do Projeto</a></h1>
+Este projeto foi realizado durante o Next Level Week - NLW Esports da Rocketseat. O desafio era criar um layout com os jogos preferidos, streamers favoritos e redes sociais. Decidi adicionar um toque pessoal ao projeto e incluí minhas músicas preferidas.
 
-<p> 💻 Este projeto foi realizado durante o Next Level Week - NLW Esports da Rocketseat, onde foi proposto criar um layout com os jogos preferidos, streamers favoritos e redes sociais, tomei a liberdade de colocoar minhas música preferidas</p>
+## 🔧 Tecnologias Utilizadas
 
-## Tecnologias
+O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-🔸 HTML
-🔸 CSS
-🔸 Git e GitHub
+- HTML
+- CSS
+- Git e GitHub
 
-## Contato
+## 🚀 Acesso ao Projeto
+
+Você pode acessar o projeto através deste link.
+
+<a href="https://maferrs.github.io/NLW/" > NLW Sports </a>
+
+## 📫 Contato
+
+Se você tiver alguma dúvida ou apenas quiser conversar, fique à vontade para me contatar no LinkedIn.
+
+
 <a href="https://www.linkedin.com/in/mafers/" > Linkedin</a>
 
+Espero que goste do NLW eSports - Trilha Explorer!
 
 <h2>Para Mobile</h2>
 
